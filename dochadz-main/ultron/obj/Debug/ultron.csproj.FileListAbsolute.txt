@@ -1,0 +1,24 @@
+C:\Users\Juraj\source\repos\ultron\ultron\bin\Debug\ultron.exe
+C:\Users\Juraj\source\repos\ultron\ultron\bin\Debug\ultron.pdb
+C:\Users\Juraj\source\repos\ultron\ultron\bin\Debug\Guna.UI2.dll
+C:\Users\Juraj\source\repos\ultron\ultron\obj\Debug\ultron.csproj.AssemblyReference.cache
+C:\Users\Juraj\source\repos\ultron\ultron\obj\Debug\ultron.Form1.resources
+C:\Users\Juraj\source\repos\ultron\ultron\obj\Debug\ultron.Properties.Resources.resources
+C:\Users\Juraj\source\repos\ultron\ultron\obj\Debug\ultron.csproj.GenerateResource.cache
+C:\Users\Juraj\source\repos\ultron\ultron\obj\Debug\ultron.csproj.CoreCompileInputs.cache
+C:\Users\Juraj\source\repos\ultron\ultron\obj\Debug\ultron.csproj.CopyComplete
+C:\Users\Juraj\source\repos\ultron\ultron\obj\Debug\ultron.exe
+C:\Users\Juraj\source\repos\ultron\ultron\obj\Debug\ultron.pdb
+C:\Users\Juraj\source\repos\ultron\ultron\obj\Debug\ultron.Zoznam.resources
+C:\Users\student\Documents\Juraj Kralik\dochadz-main\ultron\obj\Debug\ultron.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Juraj Kralik\dochadz-main\ultron\obj\Debug\ultron.exe
+C:\Users\student\Documents\Juraj Kralik\dochadz-main\ultron\obj\Debug\ultron.pdb
+C:\Users\student\Documents\Juraj Kralik\dochadz-main\ultron\bin\Debug\ultron.exe
+C:\Users\student\Documents\Juraj Kralik\dochadz-main\ultron\bin\Debug\ultron.pdb
+C:\Users\student\Documents\Juraj Kralik\dochadz-main\ultron\bin\Debug\Guna.UI2.dll
+C:\Users\student\Documents\Juraj Kralik\dochadz-main\ultron\obj\Debug\ultron.Form1.resources
+C:\Users\student\Documents\Juraj Kralik\dochadz-main\ultron\obj\Debug\ultron.Properties.Resources.resources
+C:\Users\student\Documents\Juraj Kralik\dochadz-main\ultron\obj\Debug\ultron.Zoznam.resources
+C:\Users\student\Documents\Juraj Kralik\dochadz-main\ultron\obj\Debug\ultron.csproj.GenerateResource.cache
+C:\Users\student\Documents\Juraj Kralik\dochadz-main\ultron\obj\Debug\ultron.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Juraj Kralik\dochadz-main\ultron\obj\Debug\ultron.csproj.CopyComplete
